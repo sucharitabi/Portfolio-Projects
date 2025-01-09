@@ -16,6 +16,7 @@ This project analyses road accident data to uncover trends and patterns in casua
 
 ## **Technologies Used**
 **Excel**: For data cleaning, aggregation, and visualisation.
+
 **GitHub**: For project documentation and sharing.
 
 
