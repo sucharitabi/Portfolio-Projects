@@ -1,5 +1,5 @@
 
-#01. wine-review-analysis
+# wine-review-analysis
 Exploratory Data Analysis of Wine Reviews
 
 # Wine Quality and Pricing Analysis  
